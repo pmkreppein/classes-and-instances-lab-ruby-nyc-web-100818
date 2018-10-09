@@ -1,6 +1,7 @@
 class Dog
 end
 
-rufus = Dog.new
+fido = Dog.new
 snoopy = Dog.new
-sparky = dog
+lassie = Dog.new
+
