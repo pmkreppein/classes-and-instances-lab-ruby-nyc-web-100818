@@ -1,4 +1,5 @@
 class Person
 end
 
-a
+adele_goldberg = Person.
+
